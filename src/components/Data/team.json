@@ -31,24 +31,24 @@
             "hid": "accordion-open-heading-1",
             "bid": "accordion-open-body-1",
             "target": "#accordion-open-body-1",
-            "title": "Defini los postulantes",
-            "description": "Junta quienes van a cubrir todos los cargos necesarios (minimo 6 estudiantes) y defini que cargo ocupara cada uno."
+            "title": "Definí los postulantes",
+            "description": "Juntá quienes van a cubrir todos los cargos necesarios (mínimo 6 estudiantes) y definí que cargo ocupará cada uno."
         },
         {
             "id": "02",
             "hid": "accordion-open-heading-2",
             "bid": "accordion-open-body-2",
             "target": "#accordion-open-body-2",
-            "title": "Envia el formulario",
-            "description": "Una vez reunidos, deben enviar el formulario para postulantes con sus datos personales y los propios de cada lista."
+            "title": "Enviá el formulario",
+            "description": "Una vez reunidos, deben enviar el formulario para postulantes con sus datos personales y los propios de cada lista. Este deberá ser enviado desde el correo institucional del postulante al cargo de presidente."
         },
         {
             "id": "03",
             "hid": "accordion-open-heading-3",
             "bid": "accordion-open-body-3",
             "target": "#accordion-open-body-3",
-            "title": "Asegurate que todos esten conformes",
-            "description": "Para oficializar tu lista, se debe entragar un documento FISICO con las firmas de conformidad de todos los postulantes."
+            "title": "Asegúrate de que todos esten conformes",
+            "description": "Para oficializar tu lista, se debe entragar un documento FÍSICO con las firmas de conformidad de todos los postulantes."
         },
         {
             "id": "04",
@@ -56,7 +56,7 @@
             "bid": "accordion-open-body-4",
             "target": "#accordion-open-body-4",
             "title": "Recolectar el aval",
-            "description": "Para oficializar tu lista, es necesario presentar un documento FISICO con el aval de al menos el 10% del padron electoral (15 estudiantes). Este sera UNICO por estudiante."
+            "description": "Para oficializar tu lista, es necesario presentar un documento FÍSICO con el aval de al menos el 10% del padron electoral (15 estudiantes). Este sera ÚNICO por estudiante."
         },
         {
             "id": "05",
@@ -64,15 +64,15 @@
             "bid": "accordion-open-body-5",
             "target": "#accordion-open-body-5",
             "title": "Entregar los documentos",
-            "description": "Una vez juntos todos los documentos fisicos necesarios, deben ser entregados a la junta electoral para su posterior revision. Los alumnos designados para recibir la documentación son: HILARIO YAÑEZ de 6° y JUAN DIEDRICH de 5°."
+            "description": "Una vez juntos todos los documentos físicos necesarios, deben ser entregados a la junta electoral para su posterior revisión. Los alumnos designados para recibir la documentación son: HILARIO YÁÑEZ de 6° y JUAN DIEDRICH de 5°."
         },
         {
             "id": "06",
             "hid": "accordion-open-heading-6",
             "bid": "accordion-open-body-6",
             "target": "#accordion-open-body-6",
-            "title": "Todo listo!",
-            "description": "Ya completaste el proceso! La junta electoral se encargara de revisar toda la documentacion requerida, y en caso de estar completa se comunicara con el postulante a presidente para informarle que ha sido oficializado y el numero que se le ha asignado."
+            "title": "¡Todo listo!",
+            "description": "¡Ya completaste el proceso! La junta electoral se encargará de revisar toda la documentación requerida, y en caso de estar completa se comunicará con el postulante a presidente para informarle que ha sido oficializado y el número que se le ha asignado."
         }
     ]
 }
