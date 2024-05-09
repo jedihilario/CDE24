@@ -1,3 +1,11 @@
 [
-    
+    {
+        "id": 1,
+        "name1": "Lista Violeta",
+        "name2": "Lucía Soardo",
+        "background": "h-[310px] p-12 bg-violet rounded-[45px] shadow border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/01.svg"
+    }
 ]
