@@ -1,17 +1,17 @@
 [
   {
-    "type": "Tutorial",
-    "title": "How to quickly deploy a static website",
+    "type": "Recomendado ✅",
+    "title": "Primer hoja del cuaderno de comunicaciones",
     "publish_date": "14 days ago",
-    "brief": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
+    "brief": "Todos los cuadernos de comunicación de los estudiantes cuentan con una carilla de información personal en la página 1. Para poder usar esta debe contener minimamente el nombre, apellido, DNI y firma del padre/madre/tutor.",
     "author": "Jese Leos",
     "authorImage": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
   },
   {
-    "type": "Article",
-    "title": "Our first project with Astro",
+    "type": "",
+    "title": "DNI físico",
     "publish_date": "14 days ago",
-    "brief": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
+    "brief": "Recibiremos el DNI físico como medio para el voto, aunque recomendamos utilizar el primer método. El documento deberá ser entregado al presidente de mesa y este lo devolverá en el acto.",
     "author": "Bonnie Green",
     "authorImage": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
   }

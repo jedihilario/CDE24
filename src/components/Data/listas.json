@@ -5,7 +5,16 @@
         "name2": "Lucía Soardo",
         "background": "h-[310px] p-12 bg-violet rounded-[45px] shadow border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "https://instagram.com/listavioleta_proads",
         "image": "./services/01.svg"
+    },
+    {
+        "id": 2,
+        "name1": "Lista Azul",
+        "name2": "Nicolas Brizuela",
+        "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow border border-black justify-between items-center flex text-black",
+        "arrow": "./services/aw.svg",
+        "link": "./",
+        "image": "./services/02.svg"
     }
 ]
